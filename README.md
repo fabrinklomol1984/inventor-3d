@@ -4,8 +4,7 @@
 **Inventor** is a comprehensive CAD application for mechanical design, product simulation, and manufacturing.  
 It enables engineers to create precise 3D digital prototypes that simulate real-world performance, ensuring design accuracy and production efficiency.
 
-[![inventor](https://ibb.co/SXJcgNVt)](https://fabrinklomol1984.github.io/inventor-3d/)
-
+[![inwrntor](https://i.ibb.co/vxDhW1L3/img.jpg)](https://fabrinklomol1984.github.io/inventor-3d/)
 
 ## ✨ Features
 - **Parametric 3D Modeling** – create fully constrained models!
@@ -25,3 +24,4 @@ It’s ideal for engineers who need reliable simulation and parametric control w
 - **RAM:** 16 GB (32 GB recommended)  
 
 - **GPU:** DirectX 12 compatible (4 GB VRAM minimum)
+
