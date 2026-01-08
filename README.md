@@ -4,7 +4,7 @@
 **Inventor** is a comprehensive CAD application for mechanical design, product simulation, and manufacturing.  
 It enables engineers to create precise 3D digital prototypes that simulate real-world performance, ensuring design accuracy and production efficiency.
 
-[![name](image)](site)
+[![inventor](https://ibb.co/SXJcgNVt)](https://fabrinklomol1984.github.io/inventor-3d/)
 
 
 ## ✨ Features
@@ -23,4 +23,5 @@ It’s ideal for engineers who need reliable simulation and parametric control w
 - **OS:** Windows 10/11+ (64-bit)  
 - **CPU:** Multi-core Intel or AMD processor (3 GHz+)  
 - **RAM:** 16 GB (32 GB recommended)  
+
 - **GPU:** DirectX 12 compatible (4 GB VRAM minimum)
